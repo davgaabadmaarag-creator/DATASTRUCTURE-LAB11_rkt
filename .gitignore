@@ -1,0 +1,7 @@
+mygrep
+mygrep.exe
+*.o
+.grading/
+__pycache__/
+*.pyc
+.grading-reference/
